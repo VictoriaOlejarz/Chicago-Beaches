@@ -1,1 +1,1 @@
-# Chicago-Beaches
+# Chicago Beaches

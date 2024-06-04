@@ -1,6 +1,6 @@
 # Chicago Beaches
 
-##  The summer time in Chicago is one of the most amazing experiences. With the lake alongside the windy city, there are tons of beaches to go to and choose from. I want to go to the beach that has the clearest water, and a way to measure wwater clarity is by looking at turbidity levels.
+##  The summer time in Chicago is one of the most amazing experiences. With the lake alongside the windy city, there are tons of beaches to go to and choose from. I want to go to the beach that has the clearest water, and a way to measure water clarity is by looking at turbidity levels.
 
 
 
